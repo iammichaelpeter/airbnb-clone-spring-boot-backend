@@ -2,6 +2,11 @@
 
 Spring boot backend of the airbnb clone
 
+⚠️ **IMPORTANT NOTICE**
+This project is my implementation of a YouTube tutorial by [C0de-cake](https://github.com/C0de-cake).
+
+The TUTORIAL_NOTES.md file contains my personal documentation of the learning process.
+
 [Video tutorial](https://youtu.be/XriUV06Hkow)
 
 [Angular Frontend](https://github.com/C0de-cake/airbnb-clone-frontend)
